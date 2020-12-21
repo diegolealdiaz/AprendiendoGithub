@@ -4,7 +4,7 @@ body {
   color: #333333;
 }
 
-#container {
+.container {
   width: 70%;
   padding: left;
   text-align: left;
